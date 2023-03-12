@@ -1,0 +1,23 @@
+{
+  "name": "2.5-selenium-testing-assignment",
+  "version": "1.0.0",
+  "description": "NodeJS Selenium test using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Selenium",
+    "Automated",
+    "test"
+  ],
+  "author": "Stephen Brown",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "selenium-webdriver": "^4.8.1"
+  }
+}
